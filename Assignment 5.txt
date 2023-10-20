@@ -1,0 +1,21 @@
+Requirement
+
+What’s full form of SRS?
+Why SRS is important in Manual Testing?
+What is Use Cases?
+Design 5 different Use Cases?
+What are Non-functional Requirement in SRS?
+Design an Use Case Diagram? Describe briefly.
+
+Test Cases
+
+What is a Test Case?
+List out level of Test Cases? What are fields of a Test case Template?
+Write test cases for Gmail Login? Give at least 5 examples?
+Design 3 positive Test cases and 3 negative test cases regarding: http://newtours.demoaut.com
+What problems you face in writing test cases?
+What is called a good Test Case? What is a bad Test Case?
+What are guidelines for writing Test Cases?
+What is Test Data? Why is it important?
+Develop Test cases for Flight Reservation Application?
+(Use standard guidelines to write your test cases. Cover all sections provided in SRS).
