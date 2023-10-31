@@ -1,0 +1,33 @@
+JMeter
+Check Java Installed?-Java -Version
+Download JM
+Start JM/Bin/Jmeter.Bat
+
+Start JM
+Create Test Plan
+Create ThreadGroup(Users)
+Create a sampler(HTTP Req)
+Add Listeners
+Run
+
+BlazeMeter
+Create Blazemeter account
+Get BM Extension for chrome
+Login BM
+Record Test
+Save JMX
+Add JMX file to Jmeter
+
+Jmeter(test plan,thread group, sample)
+https://www.isa.org/
+thread count 30
+ramp up time 30
+loop 2
+
+path:/about-isa/what-is-automation
+
+blazemeter
+https://www.isa.org/
+record the steps and save .jmx file
+import into jmeter
+
