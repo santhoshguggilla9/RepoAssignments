@@ -1,0 +1,11 @@
+1.
+create csv with 20 user data with 3 coloms(username,pwd,hint)
+import it in jmeter
+fetch the data in java request sampler
+
+2.
+create http sampler(www.flipkart.com)
+add assertion(200)
+add 2 listeners
+
+3. make a html report
