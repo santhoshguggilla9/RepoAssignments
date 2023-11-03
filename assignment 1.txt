@@ -1,0 +1,11 @@
+1.write a program in java to print "java program" 5 times.
+	- 3 times in same line
+	2 times in saperate lines
+2. write a java program to print sum of 3 integers without using sum varaible.
+
+3. write a program to print your details.
+	name
+	fathername
+	address
+	area
+	country
