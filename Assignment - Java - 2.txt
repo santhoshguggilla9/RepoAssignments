@@ -1,0 +1,26 @@
+create project in eclipse -> Assignments
+create package inside src -> 06.11.23
+
+inside the package
+1.write a programs to print area traingle
+2.write program to print area of circle
+3.write a program swap 2 integers
+
+	x=10,y=20(actual)
+	y=10,x=20(expected)
+
+1. mini proj
+2. assignmets
+practical
+programetical
+
+diwali
+
+http://www.tuxpaint.org/
+
+6th Nov -> Virtual Diya Making
+7th Nov -> Mad Libs
+8th Nov -> Paper candle 
+9th Nov -> Diwali hunt
+10th Nov-> Ethnic Wear with Selfie 
+11th Nov-> Creative Diwali Ads
