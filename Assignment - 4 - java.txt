@@ -1,0 +1,8 @@
+Assignment - 3 - java
+
+write a program to read an interger
+write a program to print the sum using method
+write a program to cast a value from int to byte
+write a program to case double to float
+
+
