@@ -1,0 +1,5 @@
+Assignment 5 java
+
+create a class file and perform sum using passing objects
+create a class file and perform even or odd using returning object
+push the code to github from eclipse
