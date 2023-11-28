@@ -1,0 +1,25 @@
+Assignment 8 Java
+
+* Create a class named as Bank - parent
+* Create another class Customer - child
+* Create another class trans - child
+
+-in bank
+bno
+bname
+loc
+getters and setters for all varaibles
+
+-in customer
+custid
+Cname
+Acno
+Amt
+getters and setters for all varaibles
+
+- in trans
+tran_id
+tran_desc
+getters and setters for all varaibles
+
+use for each loop to print the 10 records

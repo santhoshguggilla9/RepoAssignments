@@ -1,0 +1,12 @@
+Assignment 6 java
+...............
+
+
+create a package name (StringsDemo)
+classes are...
+1. write a code to print the legth of a string?
+2. write a code to compare the 2 string values?
+3. write a code to change the existing value of string?
+4. write a code to print the string length using while?
+5. write a code to delte one char from string?
+
